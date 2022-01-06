@@ -24,7 +24,7 @@
 
 ## Racket-shaped Handheld Devices
 
-![](./Figures/RacketStructurever4.jpg)
+![](./Figures/RacketStructure.jpg)
 
 <a name="alternative-tracking-system"/>
 
@@ -32,7 +32,7 @@
 
 |                    OptiTrack                     |                         ViveTracker                          |
 | :----------------------------------------------: | :----------------------------------------------------------: |
-| ![](./Figures/LRA.PNG) | ![](./Figures/DeviceswithMarkersver4.jpg) |
+| ![](./Figures/LRA.PNG) | ![](./Figures/DevicesVive.jpg) |
 
 <a name="additional-racket-sports"/>
 
