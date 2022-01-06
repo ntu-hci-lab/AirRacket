@@ -12,6 +12,9 @@
 - [Pneumatic Control System](#pneumatic-control-system)
   - [Pneumatic System Overview](#pneumatic-system-overview)
   - [Circuit Schematic](#circuit-schematic)
+  - [Control Code](#code)
+    - [Arduino](#arduino)
+    - [Unity](#unity) 
 - [Website, Paper/Video Links and BibTeX](#reference)
 
 <a name="system-diagram"/>
@@ -53,6 +56,18 @@
 
 ### Circuit Schematic
 ![](./Figures/Circuit.png)
+
+<a name="code"/>
+
+### Control Code
+
+<a name="arduino"/>
+
+#### Arduino
+
+<a name="unity"/>
+
+#### Unity
 
 <a name="reference"/>
 
