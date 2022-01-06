@@ -4,30 +4,56 @@
 
 >This is the opensource folder for CHI'22 paper "AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences"
 
-[TOC]
+### Table of Contents  
+- [System Diagram](#system-diagram)
+  - [Racket-shaped Handheld Devices](#racket-shaped-handheld-devices)
+  - [Alternative Tracking System](#alternative-tracking-system)
+  - [Additional Racket Sports](#additional-racket-sports)
+- [Pneumatic Control System](#pneumatic-control-system)
+  - [Pneumatic System Overview](#pneumatic-system-overview)
+  - [Circuit Schematic](#circuit-schematic)
+- [Website, Paper/Video Links and BibTeX](#reference)
+
+<a name="system-diagram"/>
 
 ## System Diagram
 
-![](.\Figures\SystemArchitecture.jpg)
+![](./Figures/SystemArchitecture.jpg)
 
-## Racket-shaped handheld devices
+<a name="racket-shaped-handheld-devices"/>
 
-![](C:\Users\Njceties\Downloads\Figures\Racket Structure ver4.jpg)
+## Racket-shaped Handheld Devices
+
+![](./Figures/Racket Structure ver4.jpg)
+
+<a name="alternative-tracking-system"/>
 
 ### Alternative Tracking System
 
 |                    OptiTrack                     |                         ViveTracker                          |
 | :----------------------------------------------: | :----------------------------------------------------------: |
-| ![](C:\Users\Njceties\Downloads\Figures\LRA.PNG) | ![](C:\Users\Njceties\Downloads\Figures\Devices with Markers ver4.jpg) |
+| ![](./Figures/LRA.PNG) | ![](./Figures/Devices with Markers ver4.jpg) |
+
+<a name="additional-racket-sports"/>
 
 ### Additional Racket Sports
 
-<img src="C:\Users\Njceties\Downloads\Figures\AdditionalRacketsDesign.PNG" style="zoom:75%;" />
+<img src="./Figures/AdditionalRacketsDesign.PNG" style="zoom:75%;" />
 
-## Circuit Schematic
+<a name="pneumatic-control-system"/>
 
-![](.\Figures\Circuit.png)
+## Pneumatic Control System
 
-![](.\Figures\DeviceLayout.png)
+<a name="pneumatic-system-overview"/>
+
+### Pneumatic System Overview
+![](./Figures/DeviceLayout.png)
+
+<a name="circuit-schematic"/>
+
+### Circuit Schematic
+![](./Figures/Circuit.png)
+
+<a name="reference"/>
 
 ## Website, Paper/Video Links and BibTeX
