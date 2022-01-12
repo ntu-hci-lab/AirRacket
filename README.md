@@ -23,6 +23,9 @@
 
 ![](./Figures/SystemArchitecture.jpg)
 
+AirRacket system includes: (1) Custom-designed racket devices: Two nozzles with separate tubing mounted on sport-specific handle and shaft, and (2) Pneumatic control system: a pressure regulator controlling force magnitude and two solenoid valves controlling force direction.
+
+
 <a name="racket-shaped-handheld-devices"/>
 
 # Racket-shaped Handheld Devices
