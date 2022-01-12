@@ -32,6 +32,15 @@ AirRacket system includes: (1) Custom-designed racket devices: Two nozzles with 
 
 ![](./Figures/RacketStructure.jpg)
 
+Each of our handhheld devices consists of a 3D-printed handle, a carbon fiber shaft ($\phi$14mm or $\phi$ 23mm outer-diameter), and two noise-reducing nozzles on a 3D-printed nozzle mount. 
+The 3D-models in the `./3D Racket Model` folder includes:
+
+(1) Racket-shaped Handle: components with specific shapes modelled after real rackets handles with a cuboid-shaped hole for placing LRA vibrator and tunnels for low-friction polyurethane tubing ($\phi$6mm),
+(2) Shaft connector: components that connect the carbon fiber stick and racket-shaped handle by clamping them (to compensate margin error due to 3D printing resolution, appplying adhesive or efectrical tape "inside" the shaft connectors are recommended), 
+and (3) Nozzle connector: components for mounts the nozzles and should be able to clamp the carbon fiber shaft.
+
+Notice: to complete the rest of the handheld device, compressed air nozzles, L-shape nozzle fittings, and PU tubes should be prepared ($phi$6mm) on your own. 
+
 <a name="alternative-tracking-system"/>
 
 ### Alternative Tracking System
