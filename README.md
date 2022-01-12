@@ -21,7 +21,6 @@
 
 ## System Diagram
 
-<img src="./Figures/SystemArchitecture.jpg" width="50%">
 ![](./Figures/SystemArchitecture.jpg)
 
 <a name="racket-shaped-handheld-devices"/>
