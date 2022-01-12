@@ -6,7 +6,7 @@
 
 ### Table of Contents  
 - [System Diagram](#system-diagram)
-  - [Racket-shaped Handheld Devices](#racket-shaped-handheld-devices)
+- [Racket-shaped Handheld Devices](#racket-shaped-handheld-devices)
   - [Alternative Tracking System](#alternative-tracking-system)
   - [Additional Racket Sports](#additional-racket-sports)
 - [Pneumatic Control System](#pneumatic-control-system)
@@ -25,7 +25,7 @@
 
 <a name="racket-shaped-handheld-devices"/>
 
-## Racket-shaped Handheld Devices
+# Racket-shaped Handheld Devices
 
 ![](./Figures/RacketStructure.jpg)
 
