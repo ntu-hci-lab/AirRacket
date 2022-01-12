@@ -53,7 +53,7 @@ To be compatible with general VR systems, in `./3D Racket Model/ViveTracker Vers
 <a name="additional-racket-sports"/>
 
 ### Additional Racket Sports
-Besides the three racket sports (pingpong/badminton/tennis) we demonstrated and experimented in our paper, we also put some additional racket sports design in the `./3D Racket Model/Other Raccket Sports/`, including design for baseball, hockey, golf, racquet ball, and a sword.
+Besides the three racket sports (pingpong/badminton/tennis) we demonstrated and experimented in our paper, we also put some additional racket sports design in the `./3D Racket Model/Other Raccket Sports/`, including designs for baseball, hockey, golf, racquet ball, and a sword.
 
 <img src="./Figures/AdditionalRacketsDesign.PNG" style="zoom:75%;" />
 
@@ -64,6 +64,7 @@ Besides the three racket sports (pingpong/badminton/tennis) we demonstrated and 
 <a name="pneumatic-system-overview"/>
 
 ### Pneumatic System Overview
+Below is what our handheld devices and pneumatic system combined looks like.
 ![](./Figures/DeviceLayout.png)
 
 <a name="circuit-schematic"/>
@@ -78,10 +79,12 @@ Besides the three racket sports (pingpong/badminton/tennis) we demonstrated and 
 <a name="arduino"/>
 
 #### Arduino
+We include the compiled code on our Arduino board at `./Code/AirRacket.ino`.
 
 <a name="unity"/>
 
 #### Unity
+The specific communicating protocols are written in `./Code/ArduinoBasic.cs` and `./Code/ArduinoControl.cs`, which we attached on Unity GameObject in our virtual scene.
 
 <a name="reference"/>
 
