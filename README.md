@@ -35,22 +35,25 @@ AirRacket system includes: (1) Custom-designed racket devices: Two nozzles with 
 Each of our handhheld devices consists of a 3D-printed handle, a carbon fiber shaft (ø14mm or ø 23mm outer-diameter), and two noise-reducing nozzles on a 3D-printed nozzle mount. 
 The 3D-models in the `./3D Racket Model` folder includes:
 1. Racket-shaped Handle: components with specific shapes modelled after real rackets handles with a cuboid-shaped hole for placing LRA vibrator and tunnels for low-friction polyurethane tubing (ø6mm),
-2. Shaft connector: components that connect the carbon fiber stick and racket-shaped handle by clamping them (to compensate margin error due to 3D printing resolution, appplying adhesive or efectrical tape "inside" the shaft connectors are recommended), and
-3. Nozzle connector: components for mounts the nozzles and should be able to clamp the carbon fiber shaft.
+2. Shaft connector: components that connect the carbon fiber stick and racket-shaped handle by clamping them (to compensate margin error due to 3D printing resolution, appplying adhesive or electrical tape "inside" the shaft connectors are recommended), and
+3. Nozzle connector: components for mounting the nozzles and should be able to clamp the carbon fiber shaft (those additional branches are for adding reflective markers, but we also include file without them).
 
 Notice: to complete the rest of the handheld device, compressed air nozzles, L-shape nozzle fittings, carbon fiber shaft, and PU tubes(ø6mm) are required. 
 
 <a name="alternative-tracking-system"/>
 
 ### Alternative Tracking System
+To be compatible with general VR systems, in `./3D Racket Model/ViveTracker Version/`, we also provides additional nozzle connectors (shaft connectors for badminton) for mounting ViveTrackers, which can be mounted as the below. However, the center-of-mass and total weight would deviate a lot with this current version. 
 
 |                    OptiTrack                     |                         ViveTracker                          |
 | :----------------------------------------------: | :----------------------------------------------------------: |
 | ![](./Figures/LRA.PNG) | ![](./Figures/DevicesVive.jpg) |
 
+
 <a name="additional-racket-sports"/>
 
 ### Additional Racket Sports
+Besides the three racket sports (pingpong/badminton/tennis) we demonstrated and experimented in our paper, we also put some additional racket sports design in the `./3D Racket Model/Other Raccket Sports/`, including design for baseball, hockey, golf, racquet ball, and a sword.
 
 <img src="./Figures/AdditionalRacketsDesign.PNG" style="zoom:75%;" />
 
