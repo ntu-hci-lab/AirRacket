@@ -89,4 +89,4 @@ The specific communicating protocols are written in `./Code/ArduinoBasic.cs` and
 <a name="reference"/>
 
 ## Website, Paper/Video Links and BibTeX
-(Left blank before formally accepted.)
+(Left blank before the DOI is ready.)
