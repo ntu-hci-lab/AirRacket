@@ -89,4 +89,24 @@ The specific communicating protocols are written in `./Code/ArduinoBasic.cs` and
 <a name="reference"/>
 
 ## Website, Paper/Video Links and BibTeX
-(Left blank before the DOI is ready.)
+[DOI](https://doi.org/10.1145/3491102.3502034), [Video Preview](https://www.youtube.com/watch?v=UAoQlSbQRYY), [Video Presentation](https://www.youtube.com/watch?v=INXk8tT5H3U)
+### BibTex
+```
+@inproceedings{10.1145/3491102.3502034,
+author = {Tsai, Ching-Yi and Tsai, I-Lun and Lai, Chao-Jung and Chow, Derrek and Wei, Lauren and Cheng, Lung-Pan and Chen, Mike Y.},
+title = {AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences},
+year = {2022},
+isbn = {9781450391573},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3491102.3502034},
+doi = {10.1145/3491102.3502034},
+abstract = {We present AirRacket, perceptual modeling and design of ungrounded, directional force feedback for virtual racket sports. Using compressed air propulsion jets to provide directional impact forces, we iteratively designed for three popular sports that span a wide range of force magnitudes: ping-pong, badminton, and tennis. To address the limited force magnitude of ungrounded force feedback technologies, we conducted a perception study which discovered the novel illusion that users perceive larger impact force magnitudes with longer impact duration, by an average factor of 2.57x. Through a series of formative, perceptual, and user experience studies with a combined total of 72 unique participants, we explored several perceptual designs using force magnitude scaling and duration scaling methods to expand the dynamic range of perceived force magnitude. Our user experience evaluation showed that perceptual designs can significantly improve realism and preference vs. physics-based designs for ungrounded force feedback systems.},
+booktitle = {CHI Conference on Human Factors in Computing Systems},
+articleno = {185},
+numpages = {15},
+keywords = {air propulsion, ungrounded force feedback, Haptics, perceptual design, virtual reality., force perception},
+location = {New Orleans, LA, USA},
+series = {CHI '22}
+}
+```
