@@ -1,6 +1,7 @@
 # AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences
 
-Ching-Yi Tsai, I-Lun Tsai, Chao-Jung Lai, Derrek Chow, Lauren Wei, Lung-Pan Cheng, Mike Yen Chen, CHI'22 Best Paper 🏆
+Ching-Yi Tsai, I-Lun Tsai, Chao-Jung Lai, Derrek Chow, Lauren Wei, Lung-Pan Cheng, Mike Yen Chen
+CHI'22 Best Paper 🏆
 
 ![](./Figures/Teaser_Figure_bordered.jpg)
 
